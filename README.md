@@ -6,3 +6,5 @@ Our project is a price forecasting machine learning model. it predicts the price
 We trained three models, one LSTM whose hyperparameters where determined by the use of a grid search, a Birectional LSTM, and a Convolutional Neural Network model with one convolutional layer. We compared the three based on the loss, mean absolute error, and mean-squared error all averaged. The best performing model seemed to be the Bidirectional LSTM whic is the one we deployed using streamlit in python.
 
 **HOW TO RUN THE APP**
+Extract the folder and run the command: streamlit run app.py.
+You will be directed to a webpage that displays our price prediction model.
