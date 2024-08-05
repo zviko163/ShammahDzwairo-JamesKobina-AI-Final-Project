@@ -11,3 +11,6 @@ You will be directed to a webpage that displays our price prediction model.
 
 **YOUTUBE LINK**
 [Link to our YouTube demo](https://youtu.be/DEswmZ9XUzY)
+
+**COLAB LINK**
+[Goodgle Colab File](https://colab.research.google.com/drive/1lM9netAXx51YHdFWQA9saJnLlKqC9VZU?usp=sharing)
