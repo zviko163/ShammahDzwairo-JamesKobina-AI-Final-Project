@@ -8,3 +8,6 @@ We trained three models, one LSTM whose hyperparameters where determined by the 
 **HOW TO RUN THE APP**
 Extract the folder and run the command: streamlit run app.py.
 You will be directed to a webpage that displays our price prediction model.
+
+**YOUTUBE LINK**
+[Link to our YouTube demo](https://youtu.be/DEswmZ9XUzY)
